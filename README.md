@@ -183,3 +183,8 @@ KoriLM의 목표는 대형 상용 LLM을 따라잡는 것이 아닙니다.
 # License
 
 MIT License
+
+---
+
+korean-llm-v2 출시
+[바로가기](https://github.com/seoan1210/korean-llm-v2)
