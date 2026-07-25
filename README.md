@@ -1,8 +1,8 @@
-# KoriLM 🇰🇷
+# Korean LLM 🇰🇷
 
 > A small Korean Language Model built from scratch with PyTorch.
 
-KoriLM은 PyTorch를 기반으로 직접 구현한 초소형 한국어 언어 모델 프로젝트입니다.
+Korean LLM은 PyTorch를 기반으로 직접 구현한 초소형 한국어 언어 모델 프로젝트입니다.
 
 대규모 상용 LLM을 사용하는 것이 아니라,
 Tokenizer부터 Transformer 구조, 학습 시스템, 체크포인트 관리까지 직접 구현하며
